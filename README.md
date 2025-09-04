@@ -1,16 +1,14 @@
-## Hi there 👋
+## Alex Muriithi
 
-<!--
-**AlexMuriithi/AlexMuriithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mobile Developer | UI/UX Designer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+Hi there! I’m Alex - I build smooth, meaningful experiences across Android and Flutter. Whether it's designing slick interfaces or solving user pain points with clean code, I love turning ideas into polished apps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I build Software Applications
+- 🎨 Equal parts **developer** and **designer**
+- 🌍 Based in Nairobi, building with global impact in mind
+
+> Simplicity, clarity, and purpose - those guide everything I create.
+
+### 📫 Reach Me
+[🌐 Website](https://alexmuriithi.com) • [💼 LinkedIn](https://www.linkedin.com/in/alex-muriithi-124b384b/)
