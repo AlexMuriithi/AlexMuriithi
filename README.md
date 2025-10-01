@@ -1,6 +1,6 @@
 ## Alex Muriithi
 
-**Mobile Developer | UI/UX Designer | Tech Enthusiast**
+**Mobile Developer | Tech Enthusiast**
 
 Hi there! I’m Alex - I build smooth, meaningful experiences across Android and Flutter. Whether it's designing slick interfaces or solving user pain points with clean code, I love turning ideas into polished apps.
 
