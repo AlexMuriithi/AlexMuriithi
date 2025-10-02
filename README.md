@@ -11,4 +11,4 @@ Hi there! I’m Alex - I build smooth, meaningful experiences across Android and
 > Simplicity, clarity, and purpose - those guide everything I create.
 
 ### Reach Me
-[🌐 Website](https://alexmuriithi.com) • [💼 LinkedIn](https://www.linkedin.com/in/alex-muriithi-124b384b/)
+[🌐 Website](https://alexmuriithi.com) • [💼 LinkedIn](https://www.linkedin.com/in/alexgmuriithi/)
