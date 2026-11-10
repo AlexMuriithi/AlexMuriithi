@@ -21,9 +21,10 @@ I love turning ideas into polished apps.
 
 </td>
 <td width="35%" valign="top" align="center">
-
-<img width="250" alt="droid" src="https://github.com/user-attachments/assets/9f528e2c-4cc4-4e51-b18f-f1f1e352387b" />
+  
+<img width="250" alt="droid" src="https://github.com/user-attachments/assets/dff56964-3e8f-411a-9023-6b6578420e4b" />
 
 </td>
 </tr>
+
 </table>
