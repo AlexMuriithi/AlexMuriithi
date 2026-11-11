@@ -20,7 +20,7 @@ Hi, I'm Alex, a full-stack developer based in Nairobi, Kenya, with more than 15 
 </td>
 <td width="35%" valign="top" align="center">
 
-<img width="250" alt="Illustrated portrait of Alex Muriithi" src="https://alexmuriithi.com/images/alex-portrait-about.png" />
+<img width="250" alt="Illustrated Droid" src="https://github.com/user-attachments/assets/e280c978-209d-485d-991b-98877d7a9bf9" />
 
 **Available for freelance work**<br>
 [Start a project](https://alexmuriithi.com/#section5)
